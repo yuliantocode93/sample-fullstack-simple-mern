@@ -29,8 +29,7 @@ const products = [
   {
     name: "Pempek Kapal Selam",
     imageUrl: "https://media.istockphoto.com/id/1819579286/id/foto/pempek-palembang.webp?s=1024x1024&w=is&k=20&c=ImE9ZNPI07JFmV4jzZcHLOdqpjBgLW8edLL2x61GoDk=",
-    description:
-      "Pempek Kapal Selam memiliki rasa gurih dan nikmat dengan isian yaitu: telur ayam, mie kuning, bubuk ebi dan mentimun.dan dengan tambahan cuka yang terbuat dari: gula merah, asam jawa, tongchai, ebi, bawang merah, bawang putih, garam dan cabai rawit",
+    description: "Pempek dengan isian: telur ayam, mie kuning, bubuk ebi dan mentimun.Cuka yang terbuat dari: gula merah, asam jawa, tongchai, ebi, bawang merah, bawang putih, garam dan cabai rawit",
     price: 30000,
     category: "Food",
     tags: "Food",
